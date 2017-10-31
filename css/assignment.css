@@ -1,0 +1,45 @@
+div {
+	background-color: #D3D3D6;
+	border: 1px solid black;
+	margin: 15px;
+	align-items: center;
+	object-position: center;
+}
+.right,.left,.side {
+	text-align: center;
+	font-style: oblique;
+	font-family: monospace;
+	border: 0.5px solid black;
+    border-width: 2px;
+    padding: 1px;
+    border-right: 2px;
+}
+.right{
+	background-color: #ffb6c1;
+	box-sizing:border-box
+    margin right: 2px;
+    font-size: 16px;
+     margin-top: 0px;
+      
+}
+.left{
+   background-color: #cd0000;
+   box-sizing: border-box;
+   margin right: 2px;
+   font-size: 16px;
+   margin-top: 0px;
+}
+.side{
+	background-color: #ff1200;
+	 margin right: 2px;
+	font-size: 16px;
+	margin-top: 0px;
+      
+}
+p{
+	font-style: italic;
+	font-family: sans-serif;
+}
+h2 {
+	margin-left: 90%;
+}
